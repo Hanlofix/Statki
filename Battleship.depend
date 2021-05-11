@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1585404762 source:c:\users\maciek\desktop\zap\gra w statki\battleship\board.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	"board.h"
+	"ship.h"
+
+1585392840 c:\users\maciek\desktop\zap\gra w statki\battleship\board.h
+	"ship.h"
+
+1585404880 source:c:\users\maciek\desktop\zap\gra w statki\battleship\game.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"game.h"
+	"board.h"
+	"ship.h"
+	"menu.h"
+
+1585393485 c:\users\maciek\desktop\zap\gra w statki\battleship\game.h
+	"board.h"
+	"ship.h"
+
+1584731896 c:\users\maciek\desktop\zap\gra w statki\battleship\ship.h
+
+1585401313 source:c:\users\maciek\desktop\zap\gra w statki\battleship\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"game.h"
+	"board.h"
+	"ship.h"
+	"menu.h"
+
+1584731868 source:c:\users\maciek\desktop\zap\gra w statki\battleship\ship.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	"ship.h"
+
+1585401734 c:\users\maciek\desktop\zap\gra w statki\battleship\menu.h
+
+1585404884 source:c:\users\maciek\desktop\zap\gra w statki\battleship\menu.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"game.h"
+
+1585411416 source:c:\users\tomek\desktop\statki\board.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	"board.h"
+	"ship.h"
+
+1585411413 c:\users\tomek\desktop\statki\board.h
+	"ship.h"
+
+1585411390 c:\users\tomek\desktop\statki\ship.h
+
+1585411397 source:c:\users\tomek\desktop\statki\game.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"game.h"
+	"board.h"
+	"ship.h"
+	"menu.h"
+
+1585411403 c:\users\tomek\desktop\statki\game.h
+	"board.h"
+	"ship.h"
+
+1585411508 c:\users\tomek\desktop\statki\menu.h
+
+1585411518 source:c:\users\tomek\desktop\statki\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"game.h"
+	"board.h"
+	"ship.h"
+	"menu.h"
+
+1585411410 source:c:\users\tomek\desktop\statki\menu.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"game.h"
+
+1585411395 source:c:\users\tomek\desktop\statki\ship.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+	<fstream>
+	<windows.h>
+	"ship.h"
+
